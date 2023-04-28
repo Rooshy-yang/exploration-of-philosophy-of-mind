@@ -1,3 +1,3 @@
 # exploration-of-philosophy-of-mind
 My philosophy of mind learning 
-我的心灵哲学探索之路
+收集一些心灵哲学的知识
